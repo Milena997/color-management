@@ -8,6 +8,7 @@ Detailed instructions can be find in the sub [readme file](https://github.com/Mi
   - The project is written in ReactJS
 - Data state managed by Redux
 - Tailwind CSS used for management of the CSS
+- Added eslint as code-checking tool
 
 ## Web Sockets
 
