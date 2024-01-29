@@ -6,7 +6,7 @@ Detailed instructions can be find in the sub [readme file](https://github.com/Mi
 
  ## Technical specification
   - The project is written in ReactJS
-- Data state managed by Redux
+- Data state managed by React Context API
 - Tailwind CSS used for management of the CSS
 - Added eslint as code-checking tool
 
